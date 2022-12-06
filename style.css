@@ -1,0 +1,139 @@
+body {
+    background-color: hsl(216, 12%, 8%);
+    place-content: center;
+    display: flex;
+    min-height: 95vh;
+    align-items: center;
+    justify-content: center;
+}
+
+.main {
+    background-color: hsl(213, 19%, 18%);
+    max-width: 300px;
+    border-radius: 30px;
+    padding: 35px;
+}
+
+h1 {
+    color: hsl(0, 0%, 100%);
+    font-size: 18px;
+}
+
+.feedback {
+    color: hsl(216, 12%, 54%);
+    font-size: 15px;
+    margin: 15px 0px 35px 0px;
+}
+
+.star {
+    border-radius: 50px;
+    background-color: hsl(212, 14%, 24%);
+    padding: 10px;
+}
+
+.submit {
+    background-color: hsl(25, 97%, 53%);
+    color: hsl(0, 0%, 100%);
+    text-align: center;
+    border-radius: 15px;
+    padding: 5px;
+    margin: 35px 7px 15px 0px;
+}
+
+a {
+    text-decoration: none;
+}
+
+a :hover {
+    background-color: aliceblue;
+    color: hsl(25, 97%, 53%);
+}
+
+.select1 {
+    background-color: hsl(212, 14%, 24%);
+    color: hsl(216, 12%, 54%);
+    width: 500px;
+    height: 500px;
+    margin-right: 20px;
+    padding: 15px;
+    border-radius: 100px;
+}
+
+.select1:hover {
+    background-color: hsl(25, 97%, 53%);
+    color: whitesmoke;
+}
+
+.select2 {
+    background-color: hsl(212, 14%, 24%);
+    color: hsl(216, 12%, 54%);
+    width: 500px;
+    height: 500px;
+    margin-right: 20px;
+    padding: 15px;
+    border-radius: 100px;
+}
+
+.select2:hover {
+    background-color: hsl(25, 97%, 53%);
+    color: whitesmoke;
+}
+
+.select3 {
+    background-color: hsl(216, 12%, 54%);
+    color: hsl(0, 0%, 100%);
+    width: 500px;
+    height: 500px;
+    margin-right: 20px;
+    padding: 15px;
+    border-radius: 100px;
+}
+
+.select3:hover {
+    background-color: hsl(25, 97%, 53%);
+    color: whitesmoke;
+}
+
+.select3:visited {
+    background-color: hsl(216, 12%, 54%);
+    color: hsl(0, 0%, 100%)
+}
+
+.select4 {
+    background-color: hsl(212, 14%, 24%);
+    color: hsl(216, 12%, 54%);
+    width: 500px;
+    height: 500px;
+    margin-right: 20px;
+    padding: 15px;
+    border-radius: 100px;
+}
+
+.select4:hover {
+    background-color: hsl(25, 97%, 53%);
+    color: whitesmoke;
+}
+
+.select5 {
+    background-color: hsl(212, 14%, 24%);
+    color: hsl(216, 12%, 54%);
+    width: 500px;
+    height: 500px;
+    padding: 15px;
+    border-radius: 100px;
+}
+
+.select5:hover {
+    background-color: hsl(25, 97%, 53%);
+    color: whitesmoke;
+}
+
+.attribution {
+    color: antiquewhite;
+    font-size: 11px;
+    text-align: center;
+}
+
+.attribution a {
+    color: hsl(25, 97%, 53%);
+}
