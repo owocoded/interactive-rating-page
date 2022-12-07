@@ -7,7 +7,7 @@ body {
     justify-content: center;
 }
 
-.main {
+main {
     background-color: hsl(213, 19%, 18%);
     max-width: 300px;
     border-radius: 30px;
@@ -117,8 +117,8 @@ a :hover {
 .select5 {
     background-color: hsl(212, 14%, 24%);
     color: hsl(216, 12%, 54%);
-    width: 500px;
-    height: 500px;
+    width: 400px;
+    height: 400px;
     padding: 15px;
     border-radius: 100px;
 }
